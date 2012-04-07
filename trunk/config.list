@@ -1,0 +1,19 @@
+DEFAULT_NICK = Cool++
+
+JABBER_ID = mafia_bot@talkonaut.com
+
+JABBER_PASS = 11
+
+ENABLE_ICQ = 0
+
+UIN = 632817265
+
+ICQ_PASS = abyba
+
+ADMIN_PASSWORD = any
+
+PUBLIC_LOG_DIR = log
+
+PRIVATE_LOG_DIR = privlog
+
+USE_SSL = 0
