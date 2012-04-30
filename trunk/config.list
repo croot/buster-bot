@@ -1,0 +1,19 @@
+DEFAULT_NICK = Cool+
+
+JABBER_ID = jid@server.ru
+
+JABBER_PASS = pass
+
+ENABLE_ICQ = 0
+
+UIN = 632817265
+
+ICQ_PASS = 444
+
+ADMIN_PASSWORD = 444
+
+PUBLIC_LOG_DIR = log
+
+PRIVATE_LOG_DIR = privlog
+
+USE_SSL = 0
