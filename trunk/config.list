@@ -1,0 +1,30 @@
+DEFAULT_NICK = Cool+
+
+JABBER_ID = bot@oneteam.im
+
+JABBER_PASS = 11
+
+ENABLE_ICQ = 0
+
+UIN = 632817265
+
+ICQ_PASS = *****
+
+ADMIN_PASSWORD = ggg
+
+PUBLIC_LOG_DIR = log
+
+PRIVATE_LOG_DIR = privlog
+
+USE_SSL = 0
+
+# and more bot client
+
+#JABBER_ID2 = some_user@jabbrik.ru
+
+#JABBER_PASS2 = ****
+
+#JABBER_ID3 = some_user@jabbrik.ru
+
+#JABBER_PASS3 = ****
+
