@@ -1,0 +1,43 @@
+DEFAULT_NICK = Cool+
+
+JABBER_ID = bot@oneteam.im
+
+JABBER_PASS = 11
+
+ENABLE_ICQ = 0
+
+ENABLE_CONSOLE_LOG = 0
+
+UIN = 638661055
+
+ICQ_PASS = zhopa
+
+ADMIN_PASSWORD = ggg
+
+PUBLIC_LOG_DIR = log
+
+PRIVATE_LOG_DIR = privlog
+
+USE_SSL = 0
+
+### Second and more bot client ###
+
+#JABBER_ID2 = some_user@jabbrik.ru
+
+#JABBER_PASS2 = ****
+
+#JABBER_ID3 = some_user2@jabbrik.ru
+
+#JABBER_PASS3 = ****
+
+####### IRC Connection #########
+
+ENABLE_IRC = 0
+
+IRC_SERV = irc.freenode.net
+
+IRC_NICK = Mafia_Bot
+
+#IRC_PASS = None
+
+	
