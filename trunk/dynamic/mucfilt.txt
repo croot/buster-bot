@@ -1,1 +1,0 @@
-{'fool': {u'mafia_online@conference.jabber.ru': {}}, u'mafia_online@conference.jabber.ru': {'traf': 480, u'apostol@xmpp.ru': {'m': u' :-D', 't': 1338111028.39}, u'11122222@aqq.eu': {'m': u'\u043b\u043e\u0433\u0438\u043d ggg', 't': 1338110980.515}}, 'onlymemb': {}}

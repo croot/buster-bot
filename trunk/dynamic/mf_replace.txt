@@ -1,1 +1,0 @@
-{u'some_user@jabber.ua': u'\u0432\u0430\u0441\u0438\u0447\u043a\u0430', u'some_user@jabbrik.ru': u'\u043d\u043e\u0432\u044b\u0439 \u043d\u0438\u043a', u'apostol@xmpp.ru': u'Vd'}
