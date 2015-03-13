@@ -1,3 +1,5 @@
+TRUST_SERVER = jabber.ru, qip.ru, xmpp.ru
+
 DEFAULT_NICK = Cool+
 
 JABBER_ID = bot@oneteam.im
